@@ -1,0 +1,13 @@
+sentence-transformers
+pyvi
+pinecone-client
+langchain
+langchain-community
+langchain-pinecone
+langchain-tavily
+python-dotenv
+jupyter
+pandas
+seaborn
+huggingface_hub
+langgraph
